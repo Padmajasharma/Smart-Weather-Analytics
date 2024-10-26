@@ -74,6 +74,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 - [OpenWeatherMap API](https://openweathermap.org/)
 - [Node.js](https://nodejs.org/)
-```
-
-Make sure to replace `<your-repository-url>` and `<your-repository-folder>` with the actual values. Feel free to modify any part of this README to better fit your project's details!
